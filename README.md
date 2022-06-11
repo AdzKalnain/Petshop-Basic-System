@@ -10,4 +10,4 @@ This is a basic petshop system that I developed while trying to learn Java Progr
 | Different Services | Various kind of services is offered for different kind of needs. |
 
 ## Look
-![Petshop System Homepage](petshop.jpg)
+(petshop.jpg)
