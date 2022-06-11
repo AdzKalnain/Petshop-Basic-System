@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=VetReceiver
+comment1.params=
+comment1.target=VetReceiver()
+comment2.params=vetname
+comment2.target=VetReceiver(java.lang.String)
+comment3.params=vetname
+comment3.target=void\ setVetName(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getVetName()
+comment5.params=vetid
+comment5.target=void\ setVetId(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getVetId()
+comment7.params=vetcontact
+comment7.target=void\ setVetContact(java.lang.String)
+comment8.params=
+comment8.target=java.lang.String\ getVetContact()
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10
