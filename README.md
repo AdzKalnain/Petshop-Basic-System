@@ -11,5 +11,5 @@ This is a basic petshop system that I developed while trying to learn Java Progr
 
 ## Look
 <div align="center">
-  <img src="Petshop Basic System/petshop.jpg" width="100%"/>
+  <img src="Petshop Basic System/petshop.jpg" width="80%"/>
 </div>
