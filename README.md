@@ -10,4 +10,6 @@ This is a basic petshop system that I developed while trying to learn Java Progr
 | Different Services | Various kind of services is offered for different kind of needs. |
 
 ## Look
-![Petshop System Homepage](/Petshop-Basic-System/petshop.jpg "Petshop Homepage")
+<div align="center">
+  <img src="https://github.com/AdzKalnain/Geo-Mapping-System-using-QGIS/blob/main/assets/img/mapping.jpg" width="100%"/>
+</div>
